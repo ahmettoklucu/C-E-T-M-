@@ -1,0 +1,7 @@
+C:\Users\konuk\source\repos\ConsoleApp41\MathFunction\bin\Debug\MathFunction.exe.config
+C:\Users\konuk\source\repos\ConsoleApp41\MathFunction\bin\Debug\MathFunction.exe
+C:\Users\konuk\source\repos\ConsoleApp41\MathFunction\bin\Debug\MathFunction.pdb
+C:\Users\konuk\source\repos\ConsoleApp41\MathFunction\obj\Debug\MathFunction.csprojAssemblyReference.cache
+C:\Users\konuk\source\repos\ConsoleApp41\MathFunction\obj\Debug\MathFunction.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\ConsoleApp41\MathFunction\obj\Debug\MathFunction.exe
+C:\Users\konuk\source\repos\ConsoleApp41\MathFunction\obj\Debug\MathFunction.pdb

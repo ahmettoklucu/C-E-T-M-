@@ -1,0 +1,7 @@
+C:\Users\konuk\source\repos\OVERLOAD\OVERLOAD\bin\Debug\OVERLOAD.exe.config
+C:\Users\konuk\source\repos\OVERLOAD\OVERLOAD\bin\Debug\OVERLOAD.exe
+C:\Users\konuk\source\repos\OVERLOAD\OVERLOAD\bin\Debug\OVERLOAD.pdb
+C:\Users\konuk\source\repos\OVERLOAD\OVERLOAD\obj\Debug\OVERLOAD.csprojAssemblyReference.cache
+C:\Users\konuk\source\repos\OVERLOAD\OVERLOAD\obj\Debug\OVERLOAD.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\OVERLOAD\OVERLOAD\obj\Debug\OVERLOAD.exe
+C:\Users\konuk\source\repos\OVERLOAD\OVERLOAD\obj\Debug\OVERLOAD.pdb

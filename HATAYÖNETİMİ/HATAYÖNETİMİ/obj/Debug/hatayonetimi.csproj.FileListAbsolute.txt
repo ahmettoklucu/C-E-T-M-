@@ -1,0 +1,7 @@
+C:\Users\konuk\source\repos\HATAYÖNETİMİ\HATAYÖNETİMİ\bin\Debug\HATAYÖNETİMİ.exe.config
+C:\Users\konuk\source\repos\HATAYÖNETİMİ\HATAYÖNETİMİ\bin\Debug\HATAYÖNETİMİ.exe
+C:\Users\konuk\source\repos\HATAYÖNETİMİ\HATAYÖNETİMİ\bin\Debug\HATAYÖNETİMİ.pdb
+C:\Users\konuk\source\repos\HATAYÖNETİMİ\HATAYÖNETİMİ\obj\Debug\hatayonetimi.csprojAssemblyReference.cache
+C:\Users\konuk\source\repos\HATAYÖNETİMİ\HATAYÖNETİMİ\obj\Debug\hatayonetimi.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\HATAYÖNETİMİ\HATAYÖNETİMİ\obj\Debug\HATAYÖNETİMİ.exe
+C:\Users\konuk\source\repos\HATAYÖNETİMİ\HATAYÖNETİMİ\obj\Debug\HATAYÖNETİMİ.pdb

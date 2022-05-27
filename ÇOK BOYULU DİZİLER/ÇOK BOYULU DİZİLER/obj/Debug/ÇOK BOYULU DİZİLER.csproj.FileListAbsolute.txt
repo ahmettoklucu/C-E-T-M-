@@ -1,0 +1,7 @@
+C:\Users\konuk\source\repos\ÇOK BOYULU DİZİLER\ÇOK BOYULU DİZİLER\bin\Debug\ÇOK BOYULU DİZİLER.exe.config
+C:\Users\konuk\source\repos\ÇOK BOYULU DİZİLER\ÇOK BOYULU DİZİLER\bin\Debug\ÇOK BOYULU DİZİLER.exe
+C:\Users\konuk\source\repos\ÇOK BOYULU DİZİLER\ÇOK BOYULU DİZİLER\bin\Debug\ÇOK BOYULU DİZİLER.pdb
+C:\Users\konuk\source\repos\ÇOK BOYULU DİZİLER\ÇOK BOYULU DİZİLER\obj\Debug\ÇOK BOYULU DİZİLER.csprojAssemblyReference.cache
+C:\Users\konuk\source\repos\ÇOK BOYULU DİZİLER\ÇOK BOYULU DİZİLER\obj\Debug\ÇOK BOYULU DİZİLER.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\ÇOK BOYULU DİZİLER\ÇOK BOYULU DİZİLER\obj\Debug\ÇOK BOYULU DİZİLER.exe
+C:\Users\konuk\source\repos\ÇOK BOYULU DİZİLER\ÇOK BOYULU DİZİLER\obj\Debug\ÇOK BOYULU DİZİLER.pdb

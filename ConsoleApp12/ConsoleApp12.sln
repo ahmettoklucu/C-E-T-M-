@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp12", "ConsoleApp12\ConsoleApp12.csproj", "{941F7290-226A-4D83-8FF6-547A7B8B1DD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{50A5CCA5-3FAB-4357-92F1-57CFA5D6FA86}"
+	ProjectSection(SolutionItems) = preProject
+		ConsoleApp12\Class1.cs = ConsoleApp12\Class1.cs
+		hepsi.cs = hepsi.cs
+		kare.cs = kare.cs
+		kdv.cs = kdv.cs
+		kiyas.cs = kiyas.cs
+		kup.cs = kup.cs
+		maas.cs = maas.cs
+		mevsim.cs = mevsim.cs
+		ortalama.cs = ortalama.cs
+		sinav.cs = sinav.cs
+		strctrl.cs = strctrl.cs
+		vhsp.cs = vhsp.cs
+		ConsoleApp12\Vhsp.cs = ConsoleApp12\Vhsp.cs
+		vkitle.cs = vkitle.cs
+		yashsp.cs = yashsp.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941F7290-226A-4D83-8FF6-547A7B8B1DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941F7290-226A-4D83-8FF6-547A7B8B1DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941F7290-226A-4D83-8FF6-547A7B8B1DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941F7290-226A-4D83-8FF6-547A7B8B1DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9989145-1D6F-4BA2-9C8D-0A6DADE4CAF7}
+	EndGlobalSection
+EndGlobal

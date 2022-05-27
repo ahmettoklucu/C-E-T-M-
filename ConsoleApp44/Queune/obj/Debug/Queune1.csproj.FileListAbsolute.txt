@@ -1,0 +1,7 @@
+C:\Users\konuk\source\repos\ConsoleApp44\Queune\bin\Debug\Queune.exe.config
+C:\Users\konuk\source\repos\ConsoleApp44\Queune\bin\Debug\Queune.exe
+C:\Users\konuk\source\repos\ConsoleApp44\Queune\bin\Debug\Queune.pdb
+C:\Users\konuk\source\repos\ConsoleApp44\Queune\obj\Debug\Queune1.csprojAssemblyReference.cache
+C:\Users\konuk\source\repos\ConsoleApp44\Queune\obj\Debug\Queune1.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\ConsoleApp44\Queune\obj\Debug\Queune.exe
+C:\Users\konuk\source\repos\ConsoleApp44\Queune\obj\Debug\Queune.pdb

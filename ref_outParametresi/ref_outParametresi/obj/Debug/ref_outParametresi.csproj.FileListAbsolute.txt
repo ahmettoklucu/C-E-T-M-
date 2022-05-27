@@ -1,0 +1,7 @@
+C:\Users\konuk\source\repos\ref_outParametresi\ref_outParametresi\bin\Debug\ref_outParametresi.exe.config
+C:\Users\konuk\source\repos\ref_outParametresi\ref_outParametresi\bin\Debug\ref_outParametresi.exe
+C:\Users\konuk\source\repos\ref_outParametresi\ref_outParametresi\bin\Debug\ref_outParametresi.pdb
+C:\Users\konuk\source\repos\ref_outParametresi\ref_outParametresi\obj\Debug\ref_outParametresi.csprojAssemblyReference.cache
+C:\Users\konuk\source\repos\ref_outParametresi\ref_outParametresi\obj\Debug\ref_outParametresi.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\ref_outParametresi\ref_outParametresi\obj\Debug\ref_outParametresi.exe
+C:\Users\konuk\source\repos\ref_outParametresi\ref_outParametresi\obj\Debug\ref_outParametresi.pdb

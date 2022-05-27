@@ -1,0 +1,10 @@
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\konuk\source\repos\ConsoleApp13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
